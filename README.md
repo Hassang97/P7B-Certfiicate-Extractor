@@ -15,7 +15,8 @@ This project provides a Python script to extract individual certificates from P7
 ## Installation
 
 1. Ensure Python 3.x is installed on your system.
-2. Install the required library:
+2. Install the required library: 
+    > $ pip install cryptography
 
 ## Usage
 
