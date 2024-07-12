@@ -54,7 +54,7 @@ You can modify the source and output folders by editing the `source_folder` and 
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page] if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to reach out to me if you have any questions or comments!
 
 ## Acknowledgments
 
