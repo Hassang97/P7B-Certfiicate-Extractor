@@ -3,6 +3,7 @@ from cryptography import x509
 from cryptography.hazmat.primitives import serialization
 from cryptography.hazmat.primitives.serialization import pkcs7
 
+# Main function used to extract p7b files
 def extract_certs_from_p7b(p7b_file_path, cert_output_folder):
     # Read the p7b file
     with open(p7b_file_path, 'rb') as f:

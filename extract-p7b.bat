@@ -1,2 +1,2 @@
-:: This batch file extracts the certificates from .p7b files
-python C:\Users\SamG\Setup\MyFiles\Extractor-p7b.py
+:: This batch file runs the python program to extract the certificates from .p7b files
+python "your-path-goes-here"
